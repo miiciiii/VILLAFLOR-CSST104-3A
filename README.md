@@ -13,7 +13,7 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 ## Links
 
 - [GitHub Repository](https://github.com/miiciiii/VILLAFLOR-CSST104-3A)
-- [GitHub Pages](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/index.html)
+- [GitHub Pages](https://miiciiii.github.io/VILLAFLOR-CSST104-3A/)
 
 ---
 
