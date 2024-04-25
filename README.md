@@ -11,13 +11,13 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 ### Exercises
 
 - [Exercise 1](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER1.ipynb)
-- [Exercise 2](https://github.com/your-username/your-repository/blob/main/path/to/3A-VILLAFLOR-EXER2.ipynb)
-- [Exercise 3](https://github.com/your-username/your-repository/blob/main/path/to/3A-VILLAFLOR-EXER3.ipynb)
-- [Exercise 4](#activity-1)
-- [Exercise 5](#activity-2)
-- [Exercise 6](#activity-3)
-- [Exercise 7](#activity-2)
-- [Exercise 8](#activity-3)
+- [Exercise 2](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER2.ipynb)
+- [Exercise 3](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER3.ipynb)
+- [Exercise 4](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER4.ipynb)
+- [Exercise 5](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER5.ipynb)
+- [Exercise 6](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER6.ipynb)
+- [Exercise 7](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER7.ipynb)
+- [Exercise 8](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER8.ipynb)
 
 ---
 
