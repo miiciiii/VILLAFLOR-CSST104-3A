@@ -31,7 +31,7 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 
 ---
 
-### Midterm Projects
+### Midterm
 
 - [Midterm - Midterm Practical Exam using Logistic Regression Model and Linearl Regression Model](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-MIDTERM.ipynb)
 
