@@ -6,23 +6,36 @@
     <title>VILLAFLOR-CSST104-3A</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f8f9fa;
+            background-color: #f5f5f5;
             color: #333;
+            animation: gradient 3s ease infinite;
+        }
+        @keyframes gradient {
+            0% {background-position: 0% 50%;}
+            50% {background-position: 100% 50%;}
+            100% {background-position: 0% 50%;}
         }
         .container {
             max-width: 800px;
             margin: 20px auto;
             padding: 20px;
             background-color: #fff;
-            border-radius: 8px;
+            border-radius: 16px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.3s ease;
+        }
+        .container:hover {
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
         }
         h2, h3 {
-            color: #007bff;
+            color: #4a86e8;
             margin-top: 20px;
+            border-left: 4px solid #4a86e8;
+            padding-left: 8px;
+            font-weight: 600;
         }
         hr {
             border: none;
@@ -37,8 +50,9 @@
             margin-bottom: 10px;
         }
         a {
-            color: #007bff;
+            color: #4a86e8;
             text-decoration: none;
+            font-weight: 500;
         }
         a:hover {
             text-decoration: underline;
@@ -48,26 +62,26 @@
 <body>
     <div class="container">
         <h2>VILLAFLOR-CSST104-3A</h2>
-    
+
         <p>Compilation of my Activities and Projects</p>
-    
+
         <h2>About</h2>
-    
+
         <p>Welcome to my GitHub repository! Here, you'll discover a compilation of my activities and projects, especially in the realm of Machine Learning, throughout my journey in the field of CSST104. This collection showcases my dedication to continuous learning, innovation, and personal growth. I am passionate about leveraging these experiences, to contribute meaningfully to future projects and endeavors.</p>
-    
+
         <hr>
-    
+
         <h2>Links</h2>
-    
+
         <ul>
             <li><a href="https://github.com/miiciiii/VILLAFLOR-CSST104-3A">GitHub Repository</a></li>
             <li><a href="https://miiciiii.github.io/VILLAFLOR-CSST104-3A/">GitHub Pages</a></li>
         </ul>
-    
+
         <hr>
-    
+
         <h3>Exercises</h3>
-    
+
         <ul>
             <li><a href="https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER1.ipynb">Exercise 1 - Creating and Testing a Non-Deterministic Finite Automata (NFA) in Python</a></li>
             <li><a href="https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER2.ipynb">Exercise 2 - Deterministic Finite Automata</a></li>
@@ -78,21 +92,21 @@
             <li><a href="https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER7.ipynb">Exercise 7 - Constructing a Linear Regression Model</a></li>
             <li><a href="https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER8.ipynb">Exercise 8 - Implementing an ARIMA Model</a></li>
         </ul>
-    
+
         <hr>
-    
+
         <h3>Activities</h3>
-    
+
         <ul>
             <li><a href="https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-LinearRegression.ipynb">Activity 1 - Linear Regression</a></li>
             <li><a href="https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-MultipleLinearRegression.ipynb">Activity 2 - Multiple Linear Regression</a></li>
             <li><a href="https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-StudentPerformance-LogisticRegression.ipynb">Activity 3 - Sales Data Analysis Report</a></li>
         </ul>
-    
+
         <hr>
-    
+
         <h3>Midterm</h3>
-    
+
         <ul>
             <li><a href="https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-MIDTERM.ipynb">Midterm - Midterm Practical Exam using Logistic Regression Model and Linear Regression Model</a></li>
         </ul>
