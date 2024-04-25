@@ -8,17 +8,24 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 
 ---
 
+### Exercises
+
+- [Exercise 1](#[activity-1](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER1.ipynb))
+- [Exercise 2](#activity-2)
+- [Exercise 3](#activity-3)
+- [Exercise 4](#activity-1)
+- [Exercise 5](#activity-2)
+- [Exercise 6](#activity-3)
+- [Exercise 7](#activity-2)
+- [Exercise 8](#activity-3)
+
+---
+
 ### Activities
 
 - [Activity 1](#activity-1)
 - [Activity 2](#activity-2)
 - [Activity 3](#activity-3)
-
----
-
-### Exercises
-
-Add a brief description of your exercises here.
 
 ---
 
