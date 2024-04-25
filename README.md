@@ -10,14 +10,14 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 
 ### Exercises
 
-- [Exercise 1](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER1.ipynb)
-- [Exercise 2](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER2.ipynb)
-- [Exercise 3](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER3.ipynb)
-- [Exercise 4](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER4.ipynb)
-- [Exercise 5](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER5.ipynb)
-- [Exercise 6](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER6.ipynb)
-- [Exercise 7](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER7.ipynb)
-- [Exercise 8](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER8.ipynb)
+- [Exercise 1 - Creating and Testing a Non-Deterministic Finite Automata (NFA) in Python](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER1.ipynb)
+- [Exercise 2 - Deterministic Finite Automata](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER2.ipynb)
+- [Exercise 3 - Converting NFA to DFA using Epsilon Closures and Subset Construction](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER3.ipynb)
+- [Exercise 4 - Generating Pushdown Automation Diagrams in Python using graphViz](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER4.ipynb)
+- [Exercise 5 - Bank Customer Assessment Task](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER5.ipynb)
+- [Exercise 6 - Building a Logistic Regression Model](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER6.ipynb)
+- [Exercise 7 - Constructing a Linear Regression Model](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER7.ipynb)
+- [Exercise 8 - Implementing an ARIMA Model](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER8.ipynb)
 
 ---
 
