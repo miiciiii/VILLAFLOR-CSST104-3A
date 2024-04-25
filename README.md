@@ -1,6 +1,10 @@
 # VILLAFLOR-CSST104-3A
 
+--
+
 Compilation of my Activities and Projects
+
+--
 
 ## About
 
@@ -23,14 +27,14 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 
 ### Activities
 
-- [Activity 1](#activity-1)
-- [Activity 2](#activity-2)
-- [Activity 3](#activity-3)
+- [Activity 1 - Linear Regression]([#activity-1](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-LinearRegression.ipynb))
+- [Activity 2 - Multiple Linear Regression](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-MultipleLinearRegression.ipynb)
+- [Activity 3 - Sales Data Analysis Report](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-StudentPerformance-LogisticRegression.ipynb)
 
 ---
 
 ### Midterm Projects
 
-Add a brief description of your midterm projects here.
+- [Midterm - Midterm Practical Exam using Logistic Regression Model and Linearl Regression Model](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-MIDTERM.ipynb)
 
 ---
