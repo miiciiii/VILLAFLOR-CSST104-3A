@@ -27,7 +27,7 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 
 ### Activities
 
-- [Activity 1 - Linear Regression]([#activity-1](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-LinearRegression.ipynb))
+- [Activity 1 - Linear Regression](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-LinearRegression.ipynb)
 - [Activity 2 - Multiple Linear Regression](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-MultipleLinearRegression.ipynb)
 - [Activity 3 - Sales Data Analysis Report](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-ASSESMENT-StudentPerformance-LogisticRegression.ipynb)
 
