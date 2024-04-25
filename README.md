@@ -10,7 +10,7 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 
 ### Exercises
 
-- [Exercise 1](https://github.com/your-username/your-repository/blob/main/path/to/3A-VILLAFLOR-EXER1.ipynb)
+- [Exercise 1](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER1.ipynb)
 - [Exercise 2](https://github.com/your-username/your-repository/blob/main/path/to/3A-VILLAFLOR-EXER2.ipynb)
 - [Exercise 3](https://github.com/your-username/your-repository/blob/main/path/to/3A-VILLAFLOR-EXER3.ipynb)
 - [Exercise 4](#activity-1)
