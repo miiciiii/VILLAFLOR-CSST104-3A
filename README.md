@@ -10,7 +10,9 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 
 ### Activities
 
-Add a brief description of your activities here.
+- [Activity 1](#activity-1)
+- [Activity 2](#activity-2)
+- [Activity 3](#activity-3)
 
 ---
 
