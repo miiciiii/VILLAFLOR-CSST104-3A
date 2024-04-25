@@ -10,6 +10,13 @@ Welcome to my GitHub repository! Here, you'll discover a compilation of my activ
 
 ---
 
+## Links
+
+- [GitHub Repository](https://github.com/miiciiii/VILLAFLOR-CSST104-3A)
+- [GitHub Pages](https://username.github.io/repository-name)
+
+---
+
 ### Exercises
 
 - [Exercise 1 - Creating and Testing a Non-Deterministic Finite Automata (NFA) in Python](https://github.com/miiciiii/VILLAFLOR-CSST104-3A/blob/main/3A-VILLAFLOR-EXER1.ipynb)
