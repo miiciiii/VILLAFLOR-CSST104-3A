@@ -6,7 +6,7 @@ Compilation of my Activities and Projects
 
 ## About
 
-Welcome to my GitHub repository! Here, you'll discover a compilation of my activities and projects, especially in the realm of Machine Learning, throughout my journey in the field of Computer Science. This collection showcases my dedication to continuous learning, innovation, and personal growth. I am passionate about leveraging these experiences, to contribute meaningfully to future projects and endeavors.
+Welcome to my GitHub repository! Here, you'll discover a compilation of my activities and projects, especially in the realm of Machine Learning, throughout my journey in the field of CSST104. This collection showcases my dedication to continuous learning, innovation, and personal growth. I am passionate about leveraging these experiences, to contribute meaningfully to future projects and endeavors.
 
 ---
 
